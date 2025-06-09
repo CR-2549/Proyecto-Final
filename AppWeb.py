@@ -110,7 +110,7 @@ def render_page_content(pathname):
                     ),
                     html.Li(
                         html.A("Accede al Reporte de nuestro Proyecto",
-                               href="https://docs.google.com/document/d/1pTxQqFK8dSdtiCMaNF50v4VTywUNqBmW/edit?usp=sharing&ouid=108223027700502681080&rtpof=true&sd=true",
+                               href="https://www.canva.com/design/DAGpu06v9is/wJbdlRRFWQ8DvOCpDiChfQ/edit?utm_content=DAGpu06v9is&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
                                target="_blank",
                                style={"color": "#4da4e0", "textDecoration": "none", "fontWeight": "bold"})
                     )
