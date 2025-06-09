@@ -78,7 +78,7 @@ def layout():
                 }
             ),
             html.P(
-                "Un simple elixir puede marcar la diferencia entre la derrota y la victoria. Los datos también.",
+                "Un simple elixir puede marcar la diferencia entre la derrota y la victoria.",
                 style={
                     "textAlign": "center",
                     "fontStyle": "italic",
